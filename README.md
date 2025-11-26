@@ -1,2 +1,3 @@
 # NetworkTester
 pythonでネットワークのアップロード速度とダウンロード速度とpingを測定するやつです 
+pythonをインストールして、ターミナル(powershellとか)でpip install speedtest-cliを実行してから起動してください
