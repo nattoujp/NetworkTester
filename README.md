@@ -1,0 +1,2 @@
+# NetworkTester
+pythonでネットワークのアップロード速度とダウンロード速度とpingを測定するやつです 
